@@ -1,1 +1,5 @@
 *.parquet
+
+week2/artifacts
+week2/mlruns
+
