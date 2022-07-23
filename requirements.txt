@@ -9,3 +9,4 @@ xgboost
 fastparquet
 boto3
 matplotlib
+prefect==2.0b5
